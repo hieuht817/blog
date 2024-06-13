@@ -1,0 +1,48 @@
+---
+{"dg-publish":true,"permalink":"/pkm/thinking/"}
+---
+
+6 levels (bloom's revised Taxonomy)
+- Remember -> regurgitate
+	- memorizing
+	- rereading
+	- rewriting
+	- repetitive
+	- tedious
+	- listing
+	- defining
+	- stating facts
+- Understand -> explain
+	- Comprehend
+	- thinking (not studying)
+	- intention
+	- what? wrap head around
+- Apply
+	- Using
+	- solve problems
+		- simple: 1-1
+			- apply level
+			- procedural: coding simple function...
+		- advance
+- Analyze -> comparison
+	- Higher order learning
+	- comparing & contrasting
+		- similarities & differences
+	- not just information itself
+	- relation to another piece of information
+	- countless techniques
+		- venn diagrams
+		- table
+		- summaries
+		- mindmap
+		- problem solving
+	- ChatGPT
+- Evaluate -> prioritize
+	- Judgment, assess, critique, examine
+	- so what? what does it matter? who cares? why is it important?
+	- mind maps, teaching, answering questions, creating summaries
+- Creating hypothesis
+	- synthesizing
+	- creating answer (not existed in knowledge)
+	- identify a gap
+	- create potential answer (based on what known)
